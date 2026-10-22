@@ -3,7 +3,7 @@ class Powermeter < Formula
   homepage "https://github.com/cheatsnake/powermeter"
   url "https://github.com/cheatsnake/powermeter/releases/download/2026-10-22-1/powermeter_2026-10-22-1_darwin_universal.tar.gz"
   version "2026.10.22.1"
-  sha256 "fa1ce48ca86f8020a7a83f940b250a81dee3118fd8b511e2bc6f15ab59dc7ea7"
+  sha256 "de97a242af253ba050a79f7da1f7b407d10f101e1a191dc9bdefad37b6fa8a36"
   license "MIT"
 
   depends_on macos: :ventura
